@@ -8,9 +8,8 @@
 ## 🌱 About Me  
 
 - 💡 Currently building **XpressTerminal.ph**, a digital terminal management system for bus operators in Mindanao  
-- 🎯 Passionate about **Android development, UI/UX, real-time systems, and automation**  
-- ☁️ Knowledgable with **Firebase**, **Firestore**, **Realtime Database**, **Crashlytics**, and **Cloud Messaging**  
-
+- 🎯 Passionate about **Android development, UI/UX, real-time systems, and automation**
+- 
 ---
 
 ## 🧰 Tech Stack  
