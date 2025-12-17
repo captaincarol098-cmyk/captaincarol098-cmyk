@@ -1,0 +1,12 @@
+- [x] Rename `_buildAccuracyLineChart` to `_buildAccuracyBarChart` in lib/camera_screen.dart
+- [x] Replace LineChart with BarChart widget
+- [x] Calculate average accuracy for each variety
+- [x] Set up BarChartData with varieties on bottom axis and accuracy on left axis
+- [x] Update axis titles and formatting for bar chart
+- [x] Update the call in `_buildAnalyticsTab` to use the new method name
+- [x] Add height constraint to chart container for better display
+- [x] Modify Records tab to include delete functionality for each record
+- [x] Update Firestore stream to include document IDs for deletion
+- [x] Add delete button to each record item in the list
+- [x] Implement delete confirmation dialog
+- [x] Call Firestore delete method when confirmed

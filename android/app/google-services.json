@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199850076061",
+    "project_id": "saudiandatesclassifier",
+    "storage_bucket": "saudiandatesclassifier.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199850076061:android:8fd1285be5c6f78434f174",
+        "android_client_info": {
+          "package_name": "com.example.suadinians_dates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjlCZhQVwHNUc6cFrsHdjxwtFo0oGprUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

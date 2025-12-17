@@ -1,0 +1,36 @@
+<svg width="192" height="192" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle with gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B4513;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#D4AF37;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#654321;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="dateGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#D2691E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B4513;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Main circle background -->
+  <circle cx="96" cy="96" r="94" fill="url(#bgGradient)" stroke="#654321" stroke-width="2"/>
+  
+  <!-- Date fruit shape (oval) -->
+  <ellipse cx="96" cy="96" rx="58" ry="76" fill="url(#dateGradient)" opacity="0.9"/>
+  
+  <!-- Date texture lines -->
+  <g stroke="#654321" stroke-width="1.5" opacity="0.4">
+    <line x1="60" y1="60" x2="60" y2="132" />
+    <line x1="75" y1="55" x2="75" y2="137" />
+    <line x1="90" y1="52" x2="90" y2="140" />
+    <line x1="105" y1="52" x2="105" y2="140" />
+    <line x1="120" y1="55" x2="120" y2="137" />
+    <line x1="135" y1="60" x2="135" y2="132" />
+  </g>
+  
+  <!-- "S" letter in center -->
+  <text x="96" y="108" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle">S</text>
+  
+  <!-- Small date crown on top -->
+  <path d="M 96 40 Q 86 35, 76 40 Q 86 30, 96 35 Q 106 30, 116 40 Q 106 35, 96 40" fill="#D4AF37" opacity="0.8"/>
+</svg>
