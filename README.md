@@ -85,7 +85,7 @@
 
 ### 📁 Project Structure
 
-- **[📱 Mobile Apps Codes](https://github.com/captaincarol098-cmyk/captaincarol098-cmyk/tree/main/Mobile%20Apps%20Codes)** - Complete source code for the Android application
+- **[📱 Mobile Apps Codes](https://github.com/captaincarol098-cmyk/captaincarol098-cmyk/tree/main/lib)** - Complete source code for the Android application
 - **[🖼️ Assets & Images](https://github.com/captaincarol098-cmyk/captaincarol098-cmyk/tree/main/assets)** - All images, class datasets, and UI resources
 
 ### 📊 Date Varieties Database
