@@ -15,6 +15,12 @@
 
 <br/>
 
+<a href="https://youtu.be/MILoJowFXzY?si=MtuZ5tCmcQO5wRZb" target="_blank">
+  <img src="https://img.shields.io/badge/🎬_Watch_Video_Explanation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video Explanation" />
+</a>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Android-Java%20%7C%20Kotlin-3DDC84?style=for-the-badge&logo=android"/>
 <img src="https://img.shields.io/badge/Flutter-Dart-02569B?style=for-the-badge&logo=flutter"/>
 <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase"/>
@@ -28,6 +34,7 @@
 - 💡 Developer of **XpressTerminal.ph** — a digital terminal management system for bus operators in Mindanao  
 - 🎯 Passionate about **Android development, UI/UX design, real-time systems, and automation**  
 - 🎓 This repository contains my **current works and IT 120 Final Project**
+- 📹 **Watch my project explanation:** [YouTube Video](https://youtu.be/MILoJowFXzY?si=MtuZ5tCmcQO5wRZb)
 
 ---
 
@@ -81,7 +88,20 @@
 <div align="center">
 <h2>Saudi Dates Varieties Classifier</h2>
 <p>An Android application for classifying and analyzing different Saudi date varieties using machine learning and computer vision.</p>
+
+<div style="margin: 20px 0;">
+<a href="https://youtu.be/MILoJowFXzY?si=MtuZ5tCmcQO5wRZb" target="_blank">
+<img src="https://img.shields.io/badge/▶️_Watch_Full_Video_Demonstration-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Full Video" style="margin: 10px 0;" />
+</a>
 </div>
+
+</div>
+
+### 🎥 Video Demonstration
+[![Saudi Dates Classifier Demo](https://img.shields.io/badge/📹_Video_Explanation-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/MILoJowFXzY?si=MtuZ5tCmcQO5wRZb)
+- **Live Demo:** Watch the complete application walkthrough
+- **Technical Details:** See the Firebase integration and ML model in action
+- **User Flow:** Observe the entire classification process step-by-step
 
 ### 📁 Project Structure
 
@@ -199,6 +219,13 @@
 <div align="center">
 <h2>🎯 Mobile Application Interface</h2>
 <p>Explore the features and screens of the Saudi Dates Classifier Android application</p>
+
+<div style="margin: 20px 0;">
+<a href="https://youtu.be/MILoJowFXzY?si=MtuZ5tCmcQO5wRZb" target="_blank">
+<img src="https://img.shields.io/badge/▶️_See_Live_Demo_in_Video-Red?style=for-the-badge&logo=youtube" alt="See Live Demo" />
+</a>
+</div>
+
 </div>
 
 ### 📱 Main Application Interface
@@ -406,6 +433,16 @@
 
 ---
 
+<div align="center" style="margin: 40px 0; padding: 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px;">
+<h2 style="color: white; margin-bottom: 20px;">🎬 Watch the Full Project Demo</h2>
+<p style="color: white; margin-bottom: 20px;">See the Saudi Dates Classifier in action with detailed explanation of all features</p>
+<a href="https://youtu.be/MILoJowFXzY?si=MtuZ5tCmcQO5wRZb" target="_blank">
+<img src="https://img.shields.io/badge/▶️_Watch_Complete_Video_Explanation-FF0000?style=for-the-badge&logo=youtube&logoColor=white&fontSize=16" alt="Watch Video" style="margin: 10px 0;" />
+</a>
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -427,4 +464,8 @@
 
 <div align="center">
 <b>⭐ If you like this project, feel free to star the repo!</b>
+<br/><br/>
+<a href="https://youtu.be/MILoJowFXzY?si=MtuZ5tCmcQO5wRZb" target="_blank">
+<img src="https://img.shields.io/badge/📺_Watch_Video_Explanation_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video" />
+</a>
 </div>
