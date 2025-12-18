@@ -405,15 +405,36 @@
 </div>
 
 ---
-
 ## 🎬 Watch the Full Project Demo
 
-<div align="center" style="margin: 40px 0; padding: 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px;">
-<h2 style="color: white; margin-bottom: 20px;">Saudi Dates Classifier - Complete Walkthrough</h2>
-<p style="color: white; margin-bottom: 20px;">Watch my detailed explanation and demonstration of the entire application</p>
+<div align="center" style="margin: 40px 0; padding: 20px;">
+<h2>Saudi Dates Classifier - Complete Walkthrough</h2>
+<p>Watch my detailed explanation and demonstration of the entire application</p>
+
+<!-- Video Thumbnail that links to YouTube -->
 <a href="https://youtu.be/MILoJowFXzY?si=MtuZ5tCmcQO5wRZb" target="_blank">
-<img src="https://img.shields.io/badge/▶️_Watch_Full_Video_Explanation-FF0000?style=for-the-badge&logo=youtube&logoColor=white&fontSize=16" alt="Watch Video" style="margin: 10px 0;" />
+  <img 
+    src="https://img.youtube.com/vi/MILoJowFXzY/maxresdefault.jpg" 
+    alt="Saudi Dates Classifier Video Demo" 
+    style="width: 80%; max-width: 800px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); cursor: pointer; border: 3px solid #FF0000;"
+    onerror="this.onerror=null; this.src='https://img.youtube.com/vi/MILoJowFXzY/hqdefault.jpg'"
+  />
 </a>
+
+<br/><br/>
+
+<!-- YouTube play button overlay effect -->
+<div style="position: relative; display: inline-block;">
+  <a href="https://youtu.be/MILoJowFXzY?si=MtuZ5tCmcQO5wRZb" target="_blank" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; justify-content: center; background: #FF0000; color: white; padding: 12px 24px; border-radius: 50px; font-weight: bold; margin-top: 15px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="white" style="margin-right: 10px;">
+        <path d="M8 5v14l11-7z"/>
+      </svg>
+      Watch on YouTube
+    </div>
+  </a>
+</div>
+
 </div>
 
 ---
